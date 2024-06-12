@@ -14,16 +14,17 @@
   "author": "Victor Icoma",
   "license": "MIT",
   "dependencies": {
-    "bcryptjs":"^2.4.3",
-    "connect-flash":"^0.1.1",
-    "cookie-parser":"^1.4.5",
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
     "cookie-session": "^1.4.0",
+    "dotenv": "^16.4.5",
     "express": "^4.17.1",
-    "express-flash":"^0.0.2",
+    "express-flash": "^0.0.2",
     "express-handlebars": "^5.3.3",
     "express-session": "^1.17.2",
-    "mysql2":"^2.3.0",
-    "sequelize":"^6.6.5",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5",
     "session-file-store": "^1.5.0"
   }
 }
